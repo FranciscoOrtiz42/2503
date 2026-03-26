@@ -61,7 +61,7 @@ nav ul li {
 aside {
     float: left;
     width: 20%;
-    background-color: darkcyan;
+    background-color: rgb(114, 150, 150);
     min-height: 600px;
 }
 
